@@ -45,6 +45,10 @@ header {
 	background: white;
 }
 
+.csc a {
+	text-decoration: none;
+}
+
 .leftSide {
 	border-radius: 25px;
 	background: white;
