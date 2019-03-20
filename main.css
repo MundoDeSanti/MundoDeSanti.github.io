@@ -1,0 +1,83 @@
+body {
+	background-color: #f9c625;
+}
+
+main {
+	margin: 0 auto 0 auto;
+	max-width: 675px;
+	border-color: #000000
+}
+
+p {
+	text-align: center;
+	color: black;
+	font-family: cursive;
+}
+
+a {
+	color: green;
+}
+
+header {
+	padding: 20px;
+	position: sticky;
+	top: 0px;
+}
+
+.menu-nav {
+	border-radius: 25px;
+	padding: 2px;
+	text-align: center;
+	word-spacing: 60px;
+	background: #cccccc;
+
+}
+
+.text-nav a {
+	text-height: 1.6em;
+	font-size: 20px;
+}
+
+.csc {
+	border-radius: 25px;
+	padding: 3px;
+	font-size: 25px;
+	background: white;
+}
+
+.leftSide {
+	border-radius: 25px;
+	background: white;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 40%;
+	height: 750px;
+}
+
+.rightSide {
+	text-align: center;
+	border-radius: 25px;
+	background: grey;
+	float: right;
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 50%;
+	height: 750px;
+}
+
+.aboutPage {
+	background: green;
+	float: right;
+	border-radius: 25px;
+	padding: 20px;
+	width: 500px;
+	height: 500px;
+	/*font: normal 16px courier new, helvetica, sans-serif;*/
+}
+
+.ABT {
+	text-align: center;
+	text-decoration: none;
+	text-height: 3px;
+}
